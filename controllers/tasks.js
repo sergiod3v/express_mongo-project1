@@ -1,5 +1,5 @@
 const getAllTasks = (req, res) => {
-  res.json({ data: "Testing Github Desktop" });
+  res.json({ data: [] });
 }
 
 const createTask = (req, res) => {
